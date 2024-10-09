@@ -1,5 +1,6 @@
-## Hello, I'm Maximo 👋
-
+<div aling="center">
+  <h1 aling=center">Hello, I'm Maximo 👋</h1>
+</div>
 <!--
 **MaximoSerafini/MaximoSerafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
