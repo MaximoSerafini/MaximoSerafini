@@ -2,7 +2,7 @@
   <h1 aling=center">Hello, I'm Maximo 👋</h1>
 </div>
 
-## UCP (Universidad de la cuenca del plata) 📚​
+## Studying in UCP (Universidad de la cuenca del plata) 📚​
 ## 
 <!--
 **MaximoSerafini/MaximoSerafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
